@@ -1,0 +1,19 @@
+{
+  "name": "mini-imbd",
+  "version": "0.0.0",
+  "authors": [
+    "allstons <jagschwartz@aol.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.3"
+  }
+}
